@@ -10,7 +10,7 @@ Each notebook is self-contained; imports are provided inline, and main libraries
 ## 📂 Repository Structure  
 
 ├── AS1_AB.ipynb  
-├── AB2_Parametric_Tests.ipynb <br />
+├── AS2_Parametric_Tests.ipynb <br />
 ├── requirements.txt  
 └── README.md  
 
@@ -21,7 +21,7 @@ Each notebook is self-contained; imports are provided inline, and main libraries
 | Notebook | Topic | Key Concepts | Notes |
 |----------|-------|--------------|-------|
 | AS1_AB.ipynb | 🧪 A/B Testing Basics | Hypothesis testing, α & β errors, statistical power | Conducted A/B test experiments, visualized histograms, and explored Type I/II errors, alpha/beta trade-offs, and the foundations of statistical testing. |
-| AB2_Parametric_Tests.ipynb | 🧑🏻‍💻 Parametric Tests | Simpsons's Paradox, A/B simulation biases | Explored the essence of Simpson's and "Stop the Count" Paradoxes, conducted A/B and A/A simulations, generated and visualized data. |
+| AS2_Parametric_Tests.ipynb | 🧑🏻‍💻 Parametric Tests | Simpsons's Paradox, A/B simulation biases | Explored the essence of Simpson's and "Stop the Count" Paradoxes, conducted A/B and A/A simulations, generated and visualized data. |
 
 ---
 
