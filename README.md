@@ -12,6 +12,7 @@ Each notebook is self-contained; imports are provided inline, and main libraries
 ├── AS1_AB.ipynb  
 ├── AS2_Parametric_Tests.ipynb <br />
 ├── AS3_Probability_Tests.ipynb <br />
+├── AS4_Nonparametric.ipynb <br />
 ├── requirements.txt  
 └── README.md  
 
@@ -24,6 +25,7 @@ Each notebook is self-contained; imports are provided inline, and main libraries
 | AS1_AB.ipynb | 🧪 A/B Testing Basics | Hypothesis testing, α & β errors, statistical power | Conducted A/B test experiments, visualized histograms, and explored Type I/II errors, alpha/beta trade-offs, and the foundations of statistical testing. |
 | AS2_Parametric_Tests.ipynb | 🧑🏻‍💻 Parametric Tests | Simpsons's Paradox, A/B simulation biases | Explored the essence of Simpson's and "Stop the Count" Paradoxes, conducted A/B and A/A simulations, generated and visualized data. |
 | AS3_Probability_Tests.ipynb | 🔬 Probability Tests | Two-Sample Independent and Paired T-tests | Conducted experiments with the data on students' exam performance, exploring the difference in application of an independent and paired t-tests. |
+| AS4_Nonparametric.ipynb | 📚 Nonparametric Tests | Mann-Whitney U-Test & Permutation Test | "Crashed" the Mann-Whitney test, comparing it to the power of the Kolmogorov-Smirnov test; implemented a two-sided permutation (random) test. |
 
 ---
 
