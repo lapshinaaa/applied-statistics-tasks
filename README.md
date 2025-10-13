@@ -14,6 +14,7 @@ Each notebook is self-contained; imports are provided inline, and main libraries
 ├── AS3_Probability_Tests.ipynb <br />
 ├── AS4_Nonparametric.ipynb <br />
 ├── AS5_KS_chi.ipynb <br />
+├── AS6_Bootstrap.ipynb <br />
 ├── requirements.txt  
 └── README.md  
 
