@@ -27,7 +27,7 @@ Each notebook is self-contained; imports are provided inline, and main libraries
 | AS2_Parametric_Tests.ipynb | 🧑🏻‍💻 Parametric Tests | Simpsons's Paradox, A/B simulation biases | Explored the essence of Simpson's and "Stop the Count" Paradoxes, conducted A/B and A/A simulations, generated and visualized data. |
 | AS3_Probability_Tests.ipynb | 🔬 Probability Tests | Two-Sample Independent and Paired T-tests | Conducted experiments with the data on students' exam performance, exploring the difference in application of an independent and paired t-tests. |
 | AS4_Nonparametric.ipynb | 📚 Nonparametric Tests | Mann-Whitney U-Test & Permutation Test | "Crashed" the Mann-Whitney test, comparing it to the power of the Kolmogorov-Smirnov test; implemented a two-sided permutation (random) test. |
-| AS5_KS_chi.ipynb | 📊 Distribution & Categorical Tests | Kolmogorov–Smirnov (two-sample), Pearson’s χ² (independence) | Compared kill-time distributions across rounds; analyzed treatment vs. recovery (men/women/combined), revealed Simpson’s paradox; reproduced χ² by hand (expected counts, test statistic, p-value; correction=False). |
+| AS6_Bootstrap.ipynb | 🧩 Resampling & Robust Inference | Bootstrap Confidence Intervals (Percentile, Hall, t-Bootstrap, Double Bootstrap) | Implemented multiple bootstrap CI methods for median differences (Verizon–CLEC repair times); analyzed asymmetry effects, demonstrated robustness of t-bootstrap, and detected systematic discrimination in service times. |
 
 ---
 
